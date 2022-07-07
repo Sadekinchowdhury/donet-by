@@ -1,0 +1,188 @@
+.cent {
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}
+
+.cen {
+    text-align: center;
+    font-size: large;
+    color: aliceblue;
+    padding: 400px;
+    font-size: 150%;
+    font-family: Verdana, sans-serif;
+
+}
+
+
+
+.mi {
+    text-align: center;
+    font-size: 30 px;
+
+
+}
+
+.mil {
+    font-size: medium;
+    color: rgb(255, 252, 240);
+    background-color: rgb(98, 0, 255);
+    padding: 4px 8px;
+    text-align: center;
+
+}
+
+.cen1 {
+    text-align: center;
+    font-size: large;
+    color: rgb(0, 6, 12);
+    padding: 50px;
+    font-size: larger;
+
+}
+
+
+
+.tk {
+    display: flex;
+    margin-left: 200px;
+    margin-right: 10px;
+
+}
+
+
+.ammount {
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 0.001px solid rgb(232, 232, 238);
+    padding: 20px 40px;
+    background-color: rgb(226, 226, 223);
+
+
+
+}
+
+#re {
+    border: 1px solid red;
+    color: rgb(221, 8, 8);
+    background-color: rgb(224, 199, 199);
+
+}
+
+.other {
+    text-align: center;
+
+}
+
+hr {
+    size: 50px;
+    margin: 1px 100px 20px 100px;
+
+
+}
+
+.mi12 {
+    text-align: center;
+    background-color: chartreuse;
+    padding: 4px 2px 4px 4px;
+    margin: 5px 575px 2px 575px;
+}
+
+.donetp {
+
+    text-align: center;
+    padding: 70px;
+    margin: 10px;
+
+}
+
+.plan {
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.pl {
+    height: 300px;
+    width: 50%;
+    border: 0px solid black;
+    margin: 10px;
+    background-color: rgb(193, 230, 230);
+    text-align: left;
+    padding: 30px 3px 2px 20px;
+
+
+}
+
+#food {
+    background-color: rgb(207, 236, 201);
+}
+
+#shelter {
+    background-color: rgb(185, 230, 213);
+
+}
+
+#edu {
+    background-color: rgb(236, 211, 174);
+
+}
+
+.live {
+    display: flex;
+    margin: 100px;
+
+
+}
+
+.side {
+    margin-right: 100px;
+    text-align: left;
+
+}
+
+.photo {
+    margin-right: 100px;
+    height: 80%;
+    width: 50%;
+
+}
+
+#rn {
+    color: rgb(2, 17, 31);
+    background-color: rgb(163, 20, 20);
+}
+
+.up {
+    text-align: center;
+
+
+}
+
+#tm {
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+    padding: 5px 0px 50px 0px;
+    font-family: "Brush Script MT", cursive;
+    margin-top: 200px;
+
+
+}
+
+p {
+    font-family: "Courier New", Courier, monospace;
+}
+
+.update_area_box {
+    text-align: center;
+    margin-top: 100px;
+    border: 1px solid crimson;
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
